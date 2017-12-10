@@ -1,2 +1,296 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<office:document-content xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:smil="urn:oasis:names:tc:opendocument:xmlns:smil-compatible:1.0" xmlns:anim="urn:oasis:names:tc:opendocument:xmlns:animation:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2"><office:scripts/><office:font-face-decls><style:font-face style:name="Arial" svg:font-family="Arial" style:font-family-generic="roman" style:font-pitch="variable"/><style:font-face style:name="Liberation Sans" svg:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="roman" style:font-pitch="variable"/><style:font-face style:name="Times New Roman" svg:font-family="&apos;Times New Roman&apos;" style:font-family-generic="roman" style:font-pitch="variable"/><style:font-face style:name="Open Sans" svg:font-family="&apos;Open Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable"/><style:font-face style:name="Open Sans2" svg:font-family="&apos;Open Sans&apos;" style:font-adornments="Bold" style:font-family-generic="swiss" style:font-pitch="variable"/><style:font-face style:name="Open Sans1" svg:font-family="&apos;Open Sans&apos;" style:font-adornments="Normal" style:font-family-generic="swiss" style:font-pitch="variable"/><style:font-face style:name="Droid Sans Fallback" svg:font-family="&apos;Droid Sans Fallback&apos;" style:font-family-generic="system" style:font-pitch="variable"/><style:font-face style:name="FreeSans" svg:font-family="FreeSans" style:font-family-generic="system" style:font-pitch="variable"/><style:font-face style:name="Lohit Hindi" svg:font-family="&apos;Lohit Hindi&apos;" style:font-family-generic="system" style:font-pitch="variable"/><style:font-face style:name="Mangal" svg:font-family="Mangal" style:font-family-generic="system" style:font-pitch="variable"/><style:font-face style:name="Microsoft YaHei" svg:font-family="&apos;Microsoft YaHei&apos;" style:font-family-generic="system" style:font-pitch="variable"/><style:font-face style:name="Noto Sans CJK SC Regular" svg:font-family="&apos;Noto Sans CJK SC Regular&apos;" style:font-family-generic="system" style:font-pitch="variable"/><style:font-face style:name="Segoe UI" svg:font-family="&apos;Segoe UI&apos;" style:font-family-generic="system" style:font-pitch="variable"/><style:font-face style:name="Tahoma" svg:font-family="Tahoma" style:font-family-generic="system" style:font-pitch="variable"/></office:font-face-decls><office:automatic-styles><style:style style:name="dp1" style:family="drawing-page"><style:drawing-page-properties presentation:background-visible="true" presentation:background-objects-visible="true" draw:fill="bitmap" draw:fill-image-name="background" style:repeat="stretch" presentation:display-footer="true" presentation:display-page-number="true" presentation:display-date-time="true"/></style:style><style:style style:name="dp2" style:family="drawing-page"><style:drawing-page-properties presentation:display-header="true" presentation:display-footer="true" presentation:display-page-number="false" presentation:display-date-time="true"/></style:style><style:style style:name="dp3" style:family="drawing-page"><style:drawing-page-properties presentation:background-visible="true" presentation:background-objects-visible="true" presentation:display-footer="true" presentation:display-page-number="true" presentation:display-date-time="true"/></style:style><style:style style:name="gr1" style:family="graphic"><style:graphic-properties style:protect="size"/></style:style><style:style style:name="pr1" style:family="presentation" style:parent-style-name="Impress-title"><style:graphic-properties fo:min-height="3cm"/></style:style><style:style style:name="pr2" style:family="presentation" style:parent-style-name="Impress-notes"><style:graphic-properties draw:fill-color="#ffffff" draw:auto-grow-height="true" fo:min-height="13.364cm"/></style:style><style:style style:name="pr3" style:family="presentation" style:parent-style-name="Impress1-title"><style:graphic-properties draw:auto-grow-height="true" fo:min-height="2.63cm"/></style:style><style:style style:name="pr4" style:family="presentation" style:parent-style-name="Impress1-outline1"><style:graphic-properties fo:min-height="11.93cm"/></style:style><style:style style:name="pr5" style:family="presentation" style:parent-style-name="Impress1-notes"><style:graphic-properties draw:fill-color="#ffffff" draw:auto-grow-height="true" fo:min-height="13.364cm"/></style:style><style:style style:name="pr6" style:family="presentation" style:parent-style-name="Impress1-title"><style:graphic-properties fo:min-height="2.63cm"/></style:style><style:style style:name="P1" style:family="paragraph"><loext:graphic-properties draw:fill-color="#ffffff"/></style:style><text:list-style style:name="L1"><text:list-level-style-bullet text:level="1" text:bullet-char="●"><style:list-level-properties/><style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/></text:list-level-style-bullet><text:list-level-style-bullet text:level="2" text:bullet-char="●"><style:list-level-properties text:space-before="0.6cm" text:min-label-width="0.6cm"/><style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/></text:list-level-style-bullet><text:list-level-style-bullet text:level="3" text:bullet-char="●"><style:list-level-properties text:space-before="1.2cm" text:min-label-width="0.6cm"/><style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/></text:list-level-style-bullet><text:list-level-style-bullet text:level="4" text:bullet-char="●"><style:list-level-properties text:space-before="1.8cm" text:min-label-width="0.6cm"/><style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/></text:list-level-style-bullet><text:list-level-style-bullet text:level="5" text:bullet-char="●"><style:list-level-properties text:space-before="2.4cm" text:min-label-width="0.6cm"/><style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/></text:list-level-style-bullet><text:list-level-style-bullet text:level="6" text:bullet-char="●"><style:list-level-properties text:space-before="3cm" text:min-label-width="0.6cm"/><style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/></text:list-level-style-bullet><text:list-level-style-bullet text:level="7" text:bullet-char="●"><style:list-level-properties text:space-before="3.6cm" text:min-label-width="0.6cm"/><style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/></text:list-level-style-bullet><text:list-level-style-bullet text:level="8" text:bullet-char="●"><style:list-level-properties text:space-before="4.2cm" text:min-label-width="0.6cm"/><style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/></text:list-level-style-bullet><text:list-level-style-bullet text:level="9" text:bullet-char="●"><style:list-level-properties text:space-before="4.8cm" text:min-label-width="0.6cm"/><style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/></text:list-level-style-bullet><text:list-level-style-bullet text:level="10" text:bullet-char="●"><style:list-level-properties text:space-before="5.4cm" text:min-label-width="0.6cm"/><style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/></text:list-level-style-bullet></text:list-style><text:list-style style:name="L2"><text:list-level-style-bullet text:level="1" text:bullet-char="●"><style:list-level-properties text:min-label-width="0.6cm"/><style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/></text:list-level-style-bullet><text:list-level-style-bullet text:level="2" text:bullet-char="●"><style:list-level-properties text:space-before="0.6cm" text:min-label-width="0.6cm"/><style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/></text:list-level-style-bullet><text:list-level-style-bullet text:level="3" text:bullet-char="●"><style:list-level-properties text:space-before="1.2cm" text:min-label-width="0.6cm"/><style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/></text:list-level-style-bullet><text:list-level-style-bullet text:level="4" text:bullet-char="●"><style:list-level-properties text:space-before="1.8cm" text:min-label-width="0.6cm"/><style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/></text:list-level-style-bullet><text:list-level-style-bullet text:level="5" text:bullet-char="●"><style:list-level-properties text:space-before="2.4cm" text:min-label-width="0.6cm"/><style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/></text:list-level-style-bullet><text:list-level-style-bullet text:level="6" text:bullet-char="●"><style:list-level-properties text:space-before="3cm" text:min-label-width="0.6cm"/><style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/></text:list-level-style-bullet><text:list-level-style-bullet text:level="7" text:bullet-char="●"><style:list-level-properties text:space-before="3.6cm" text:min-label-width="0.6cm"/><style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/></text:list-level-style-bullet><text:list-level-style-bullet text:level="8" text:bullet-char="●"><style:list-level-properties text:space-before="4.2cm" text:min-label-width="0.6cm"/><style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/></text:list-level-style-bullet><text:list-level-style-bullet text:level="9" text:bullet-char="●"><style:list-level-properties text:space-before="4.8cm" text:min-label-width="0.6cm"/><style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/></text:list-level-style-bullet><text:list-level-style-bullet text:level="10" text:bullet-char="●"><style:list-level-properties text:space-before="5.4cm" text:min-label-width="0.6cm"/><style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/></text:list-level-style-bullet></text:list-style><text:list-style style:name="L3"><text:list-level-style-bullet text:level="1" text:bullet-char="●"><style:list-level-properties text:space-before="0.3cm" text:min-label-width="0.9cm"/><style:text-properties fo:font-family="StarSymbol" fo:color="#ef2929" fo:font-size="45%"/></text:list-level-style-bullet><text:list-level-style-bullet text:level="2" text:bullet-char="–"><style:list-level-properties text:space-before="1.5cm" text:min-label-width="0.9cm"/><style:text-properties fo:font-family="StarSymbol" fo:color="#ef2929" fo:font-size="75%"/></text:list-level-style-bullet><text:list-level-style-bullet text:level="3" text:bullet-char="●"><style:list-level-properties text:space-before="2.8cm" text:min-label-width="0.8cm"/><style:text-properties fo:font-family="StarSymbol" fo:color="#ef2929" fo:font-size="45%"/></text:list-level-style-bullet><text:list-level-style-bullet text:level="4" text:bullet-char="–"><style:list-level-properties text:space-before="4.2cm" text:min-label-width="0.6cm"/><style:text-properties fo:font-family="StarSymbol" fo:color="#ef2929" fo:font-size="75%"/></text:list-level-style-bullet><text:list-level-style-bullet text:level="5" text:bullet-char="●"><style:list-level-properties text:space-before="5.4cm" text:min-label-width="0.6cm"/><style:text-properties fo:font-family="StarSymbol" fo:color="#ef2929" fo:font-size="45%"/></text:list-level-style-bullet><text:list-level-style-bullet text:level="6" text:bullet-char="●"><style:list-level-properties text:space-before="6.6cm" text:min-label-width="0.6cm"/><style:text-properties fo:font-family="StarSymbol" fo:color="#ef2929" fo:font-size="45%"/></text:list-level-style-bullet><text:list-level-style-bullet text:level="7" text:bullet-char="●"><style:list-level-properties text:space-before="7.8cm" text:min-label-width="0.6cm"/><style:text-properties fo:font-family="StarSymbol" fo:color="#ef2929" fo:font-size="45%"/></text:list-level-style-bullet><text:list-level-style-bullet text:level="8" text:bullet-char="●"><style:list-level-properties text:space-before="9cm" text:min-label-width="0.6cm"/><style:text-properties fo:font-family="StarSymbol" fo:color="#ef2929" fo:font-size="45%"/></text:list-level-style-bullet><text:list-level-style-bullet text:level="9" text:bullet-char="●"><style:list-level-properties text:space-before="10.2cm" text:min-label-width="0.6cm"/><style:text-properties fo:font-family="StarSymbol" fo:color="#ef2929" fo:font-size="45%"/></text:list-level-style-bullet><text:list-level-style-bullet text:level="10" text:bullet-char="●"><style:list-level-properties text:space-before="11.4cm" text:min-label-width="0.6cm"/><style:text-properties fo:font-family="StarSymbol" fo:color="#ef2929" fo:font-size="45%"/></text:list-level-style-bullet></text:list-style></office:automatic-styles><office:body><office:presentation><draw:page draw:name="page1" draw:style-name="dp1" draw:master-page-name="Impress" presentation:presentation-page-layout-name="AL1T0"><office:forms form:automatic-focus="false" form:apply-design-mode="false"/><draw:frame presentation:style-name="pr1" draw:layer="layout" svg:width="23.8cm" svg:height="3cm" svg:x="2.2cm" svg:y="8.55cm" presentation:class="title" presentation:user-transformed="true"><draw:text-box><text:p>Auswirkungen des Klimawandels</text:p></draw:text-box></draw:frame><presentation:notes draw:style-name="dp2"><draw:page-thumbnail draw:style-name="gr1" draw:layer="layout" svg:width="14.848cm" svg:height="11.136cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="1" presentation:class="page"/><draw:frame presentation:style-name="pr2" draw:text-style-name="P1" draw:layer="layout" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true"><draw:text-box/></draw:frame></presentation:notes></draw:page><draw:page draw:name="page2" draw:style-name="dp3" draw:master-page-name="Impress1" presentation:presentation-page-layout-name="AL2T1"><office:forms form:automatic-focus="false" form:apply-design-mode="false"/><draw:frame presentation:style-name="pr3" draw:layer="layout" svg:width="24.599cm" svg:height="2.63cm" svg:x="2cm" svg:y="0.627cm" presentation:class="title" presentation:user-transformed="true"><draw:text-box><text:p>Kartoffelanbau in Grönland</text:p></draw:text-box></draw:frame><draw:frame presentation:style-name="pr4" draw:layer="layout" svg:width="24cm" svg:height="9.135cm" svg:x="2cm" svg:y="4.5cm" presentation:class="outline" presentation:user-transformed="true"><draw:text-box><text:list text:style-name="L3"><text:list-item><text:p>Möglich geworden durch die verschiebung der Klimazonen</text:p></text:list-item><text:list-item><text:p>Dafür: vertrocknete Ernte in Spanien</text:p></text:list-item><text:list-item><text:p>Warme Klimazone breitet sich aus</text:p></text:list-item><text:list-item><text:p>2080 könnte Europa in einer subtropischen Klimazone liegen</text:p></text:list-item></text:list></draw:text-box></draw:frame><presentation:notes draw:style-name="dp2"><draw:page-thumbnail draw:style-name="gr1" draw:layer="layout" svg:width="14.848cm" svg:height="11.136cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="2" presentation:class="page"/><draw:frame presentation:style-name="pr5" draw:text-style-name="P1" draw:layer="layout" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true"><draw:text-box/></draw:frame></presentation:notes></draw:page><draw:page draw:name="page3" draw:style-name="dp3" draw:master-page-name="Impress1" presentation:presentation-page-layout-name="AL2T1"><office:forms form:automatic-focus="false" form:apply-design-mode="false"/><draw:frame presentation:style-name="pr6" draw:layer="layout" svg:width="24.599cm" svg:height="2.63cm" svg:x="2cm" svg:y="0.627cm" presentation:class="title" presentation:user-transformed="true"><draw:text-box><text:p>Gletscherschmelzen</text:p></draw:text-box></draw:frame><draw:frame presentation:style-name="pr4" draw:layer="layout" svg:width="24cm" svg:height="9.135cm" svg:x="2cm" svg:y="4.5cm" presentation:class="outline"><draw:text-box><text:list text:style-name="L3"><text:list-item><text:p>Generelle Abnahme der Gletscher (unterschiedlich schnell, je nach Ort)</text:p></text:list-item><text:list-item><text:p>Der Massenverlust pro Jahr ist in den letzten Jahren stark angestiegen</text:p></text:list-item><text:list-item><text:p>Schnellere Abnahme am Aqäuator als an den Polen</text:p></text:list-item><text:list-item><text:p>Größte Abnahme in Südamerika</text:p></text:list-item></text:list></draw:text-box></draw:frame><presentation:notes draw:style-name="dp2"><draw:page-thumbnail draw:style-name="gr1" draw:layer="layout" svg:width="14.848cm" svg:height="11.136cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="3" presentation:class="page"/><draw:frame presentation:style-name="pr5" draw:text-style-name="P1" draw:layer="layout" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true"><draw:text-box/></draw:frame></presentation:notes></draw:page><draw:page draw:name="page4" draw:style-name="dp3" draw:master-page-name="Impress1" presentation:presentation-page-layout-name="AL2T1"><office:forms form:automatic-focus="false" form:apply-design-mode="false"/><draw:frame presentation:style-name="pr6" draw:layer="layout" svg:width="24.599cm" svg:height="2.63cm" svg:x="2cm" svg:y="0.627cm" presentation:class="title" presentation:user-transformed="true"><draw:text-box><text:p>Meeresspiegel</text:p></draw:text-box></draw:frame><draw:frame presentation:style-name="pr4" draw:layer="layout" svg:width="24cm" svg:height="9.135cm" svg:x="2cm" svg:y="4.5cm" presentation:class="outline"><draw:text-box><text:list text:style-name="L3"><text:list-item><text:p>Schäden für die Menschen (ökolonomisch, sozial)</text:p></text:list-item><text:list-item><text:p>Schäden für Tiere und Umwelt (ökologisch)</text:p></text:list-item><text:list-item><text:p><text:s/>→ Artenvielfalt geht verloren</text:p></text:list-item><text:list-item><text:p/></text:list-item></text:list></draw:text-box></draw:frame><presentation:notes draw:style-name="dp2"><draw:page-thumbnail draw:style-name="gr1" draw:layer="layout" svg:width="14.848cm" svg:height="11.136cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="4" presentation:class="page"/><draw:frame presentation:style-name="pr5" draw:text-style-name="P1" draw:layer="layout" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true"><draw:text-box/></draw:frame></presentation:notes></draw:page><presentation:settings presentation:mouse-visible="false"/></office:presentation></office:body></office:document-content>
+<office:document-content xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:smil="urn:oasis:names:tc:opendocument:xmlns:smil-compatible:1.0" xmlns:anim="urn:oasis:names:tc:opendocument:xmlns:animation:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2">
+  <office:scripts/>
+  <office:font-face-decls>
+    <style:font-face style:name="Arial" svg:font-family="Arial" style:font-family-generic="roman" style:font-pitch="variable"/>
+    <style:font-face style:name="Liberation Sans" svg:font-family="'Liberation Sans'" style:font-family-generic="roman" style:font-pitch="variable"/>
+    <style:font-face style:name="Times New Roman" svg:font-family="'Times New Roman'" style:font-family-generic="roman" style:font-pitch="variable"/>
+    <style:font-face style:name="Open Sans" svg:font-family="'Open Sans'" style:font-family-generic="swiss" style:font-pitch="variable"/>
+    <style:font-face style:name="Open Sans2" svg:font-family="'Open Sans'" style:font-adornments="Bold" style:font-family-generic="swiss" style:font-pitch="variable"/>
+    <style:font-face style:name="Open Sans1" svg:font-family="'Open Sans'" style:font-adornments="Normal" style:font-family-generic="swiss" style:font-pitch="variable"/>
+    <style:font-face style:name="Droid Sans Fallback" svg:font-family="'Droid Sans Fallback'" style:font-family-generic="system" style:font-pitch="variable"/>
+    <style:font-face style:name="FreeSans" svg:font-family="FreeSans" style:font-family-generic="system" style:font-pitch="variable"/>
+    <style:font-face style:name="Lohit Hindi" svg:font-family="'Lohit Hindi'" style:font-family-generic="system" style:font-pitch="variable"/>
+    <style:font-face style:name="Mangal" svg:font-family="Mangal" style:font-family-generic="system" style:font-pitch="variable"/>
+    <style:font-face style:name="Microsoft YaHei" svg:font-family="'Microsoft YaHei'" style:font-family-generic="system" style:font-pitch="variable"/>
+    <style:font-face style:name="Noto Sans CJK SC Regular" svg:font-family="'Noto Sans CJK SC Regular'" style:font-family-generic="system" style:font-pitch="variable"/>
+    <style:font-face style:name="Segoe UI" svg:font-family="'Segoe UI'" style:font-family-generic="system" style:font-pitch="variable"/>
+    <style:font-face style:name="Tahoma" svg:font-family="Tahoma" style:font-family-generic="system" style:font-pitch="variable"/>
+  </office:font-face-decls>
+  <office:automatic-styles>
+    <style:style style:name="dp1" style:family="drawing-page">
+      <style:drawing-page-properties presentation:background-visible="true" presentation:background-objects-visible="true" draw:fill="bitmap" draw:fill-image-name="background" style:repeat="stretch" presentation:display-footer="true" presentation:display-page-number="true" presentation:display-date-time="true"/>
+    </style:style>
+    <style:style style:name="dp2" style:family="drawing-page">
+      <style:drawing-page-properties presentation:display-header="true" presentation:display-footer="true" presentation:display-page-number="false" presentation:display-date-time="true"/>
+    </style:style>
+    <style:style style:name="dp3" style:family="drawing-page">
+      <style:drawing-page-properties presentation:background-visible="true" presentation:background-objects-visible="true" presentation:display-footer="true" presentation:display-page-number="true" presentation:display-date-time="true"/>
+    </style:style>
+    <style:style style:name="gr1" style:family="graphic">
+      <style:graphic-properties style:protect="size"/>
+    </style:style>
+    <style:style style:name="pr1" style:family="presentation" style:parent-style-name="Impress-title">
+      <style:graphic-properties fo:min-height="3cm" draw:shadow="visible" draw:shadow-offset-x="0.071cm" draw:shadow-offset-y="0.071cm" draw:shadow-color="#000000" draw:shadow-opacity="30%"/>
+    </style:style>
+    <style:style style:name="pr2" style:family="presentation" style:parent-style-name="Impress-notes">
+      <style:graphic-properties draw:fill-color="#ffffff" draw:auto-grow-height="true" fo:min-height="13.364cm"/>
+    </style:style>
+    <style:style style:name="pr3" style:family="presentation" style:parent-style-name="Impress1-title">
+      <style:graphic-properties draw:auto-grow-height="true" fo:min-height="2.63cm"/>
+    </style:style>
+    <style:style style:name="pr4" style:family="presentation" style:parent-style-name="Impress1-outline1">
+      <style:graphic-properties fo:min-height="11.93cm"/>
+    </style:style>
+    <style:style style:name="pr5" style:family="presentation" style:parent-style-name="Impress1-notes">
+      <style:graphic-properties draw:fill-color="#ffffff" draw:auto-grow-height="true" fo:min-height="13.364cm"/>
+    </style:style>
+    <style:style style:name="pr6" style:family="presentation" style:parent-style-name="Impress1-title">
+      <style:graphic-properties fo:min-height="2.63cm"/>
+    </style:style>
+    <style:style style:name="P1" style:family="paragraph">
+      <loext:graphic-properties draw:fill-color="#ffffff"/>
+    </style:style>
+    <text:list-style style:name="L1">
+      <text:list-level-style-bullet text:level="1" text:bullet-char="●">
+        <style:list-level-properties/>
+        <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="2" text:bullet-char="●">
+        <style:list-level-properties text:space-before="0.6cm" text:min-label-width="0.6cm"/>
+        <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="3" text:bullet-char="●">
+        <style:list-level-properties text:space-before="1.2cm" text:min-label-width="0.6cm"/>
+        <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="4" text:bullet-char="●">
+        <style:list-level-properties text:space-before="1.8cm" text:min-label-width="0.6cm"/>
+        <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="5" text:bullet-char="●">
+        <style:list-level-properties text:space-before="2.4cm" text:min-label-width="0.6cm"/>
+        <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="6" text:bullet-char="●">
+        <style:list-level-properties text:space-before="3cm" text:min-label-width="0.6cm"/>
+        <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="7" text:bullet-char="●">
+        <style:list-level-properties text:space-before="3.6cm" text:min-label-width="0.6cm"/>
+        <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="8" text:bullet-char="●">
+        <style:list-level-properties text:space-before="4.2cm" text:min-label-width="0.6cm"/>
+        <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="9" text:bullet-char="●">
+        <style:list-level-properties text:space-before="4.8cm" text:min-label-width="0.6cm"/>
+        <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="10" text:bullet-char="●">
+        <style:list-level-properties text:space-before="5.4cm" text:min-label-width="0.6cm"/>
+        <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+      </text:list-level-style-bullet>
+    </text:list-style>
+    <text:list-style style:name="L2">
+      <text:list-level-style-bullet text:level="1" text:bullet-char="●">
+        <style:list-level-properties text:min-label-width="0.6cm"/>
+        <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="2" text:bullet-char="●">
+        <style:list-level-properties text:space-before="0.6cm" text:min-label-width="0.6cm"/>
+        <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="3" text:bullet-char="●">
+        <style:list-level-properties text:space-before="1.2cm" text:min-label-width="0.6cm"/>
+        <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="4" text:bullet-char="●">
+        <style:list-level-properties text:space-before="1.8cm" text:min-label-width="0.6cm"/>
+        <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="5" text:bullet-char="●">
+        <style:list-level-properties text:space-before="2.4cm" text:min-label-width="0.6cm"/>
+        <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="6" text:bullet-char="●">
+        <style:list-level-properties text:space-before="3cm" text:min-label-width="0.6cm"/>
+        <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="7" text:bullet-char="●">
+        <style:list-level-properties text:space-before="3.6cm" text:min-label-width="0.6cm"/>
+        <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="8" text:bullet-char="●">
+        <style:list-level-properties text:space-before="4.2cm" text:min-label-width="0.6cm"/>
+        <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="9" text:bullet-char="●">
+        <style:list-level-properties text:space-before="4.8cm" text:min-label-width="0.6cm"/>
+        <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="10" text:bullet-char="●">
+        <style:list-level-properties text:space-before="5.4cm" text:min-label-width="0.6cm"/>
+        <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+      </text:list-level-style-bullet>
+    </text:list-style>
+    <text:list-style style:name="L3">
+      <text:list-level-style-bullet text:level="1" text:bullet-char="●">
+        <style:list-level-properties text:space-before="0.3cm" text:min-label-width="0.9cm"/>
+        <style:text-properties fo:font-family="StarSymbol" fo:color="#ef2929" fo:font-size="45%"/>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="2" text:bullet-char="–">
+        <style:list-level-properties text:space-before="1.5cm" text:min-label-width="0.9cm"/>
+        <style:text-properties fo:font-family="StarSymbol" fo:color="#ef2929" fo:font-size="75%"/>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="3" text:bullet-char="●">
+        <style:list-level-properties text:space-before="2.8cm" text:min-label-width="0.8cm"/>
+        <style:text-properties fo:font-family="StarSymbol" fo:color="#ef2929" fo:font-size="45%"/>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="4" text:bullet-char="–">
+        <style:list-level-properties text:space-before="4.2cm" text:min-label-width="0.6cm"/>
+        <style:text-properties fo:font-family="StarSymbol" fo:color="#ef2929" fo:font-size="75%"/>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="5" text:bullet-char="●">
+        <style:list-level-properties text:space-before="5.4cm" text:min-label-width="0.6cm"/>
+        <style:text-properties fo:font-family="StarSymbol" fo:color="#ef2929" fo:font-size="45%"/>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="6" text:bullet-char="●">
+        <style:list-level-properties text:space-before="6.6cm" text:min-label-width="0.6cm"/>
+        <style:text-properties fo:font-family="StarSymbol" fo:color="#ef2929" fo:font-size="45%"/>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="7" text:bullet-char="●">
+        <style:list-level-properties text:space-before="7.8cm" text:min-label-width="0.6cm"/>
+        <style:text-properties fo:font-family="StarSymbol" fo:color="#ef2929" fo:font-size="45%"/>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="8" text:bullet-char="●">
+        <style:list-level-properties text:space-before="9cm" text:min-label-width="0.6cm"/>
+        <style:text-properties fo:font-family="StarSymbol" fo:color="#ef2929" fo:font-size="45%"/>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="9" text:bullet-char="●">
+        <style:list-level-properties text:space-before="10.2cm" text:min-label-width="0.6cm"/>
+        <style:text-properties fo:font-family="StarSymbol" fo:color="#ef2929" fo:font-size="45%"/>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="10" text:bullet-char="●">
+        <style:list-level-properties text:space-before="11.4cm" text:min-label-width="0.6cm"/>
+        <style:text-properties fo:font-family="StarSymbol" fo:color="#ef2929" fo:font-size="45%"/>
+      </text:list-level-style-bullet>
+    </text:list-style>
+  </office:automatic-styles>
+  <office:body>
+    <office:presentation>
+      <draw:page draw:name="page1" draw:style-name="dp1" draw:master-page-name="Impress" presentation:presentation-page-layout-name="AL1T0">
+        <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+        <draw:frame presentation:style-name="pr1" draw:layer="layout" svg:width="23.8cm" svg:height="3cm" svg:x="2.2cm" svg:y="8.55cm" presentation:class="title" presentation:user-transformed="true">
+          <draw:text-box>
+            <text:p>Auswirkungen des Klimawandels</text:p>
+          </draw:text-box>
+        </draw:frame>
+        <presentation:notes draw:style-name="dp2">
+          <draw:page-thumbnail draw:style-name="gr1" draw:layer="layout" svg:width="14.848cm" svg:height="11.136cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="1" presentation:class="page"/>
+          <draw:frame presentation:style-name="pr2" draw:text-style-name="P1" draw:layer="layout" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true">
+            <draw:text-box/>
+          </draw:frame>
+        </presentation:notes>
+      </draw:page>
+      <draw:page draw:name="page2" draw:style-name="dp3" draw:master-page-name="Impress1" presentation:presentation-page-layout-name="AL2T1">
+        <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+        <draw:frame presentation:style-name="pr3" draw:layer="layout" svg:width="24.599cm" svg:height="2.63cm" svg:x="2cm" svg:y="0.627cm" presentation:class="title" presentation:user-transformed="true">
+          <draw:text-box>
+            <text:p>Kartoffelanbau in Grönland</text:p>
+          </draw:text-box>
+        </draw:frame>
+        <draw:frame presentation:style-name="pr4" draw:layer="layout" svg:width="24cm" svg:height="9.135cm" svg:x="2cm" svg:y="4.5cm" presentation:class="outline" presentation:user-transformed="true">
+          <draw:text-box>
+            <text:list text:style-name="L3">
+              <text:list-item>
+                <text:p>Möglich geworden durch die verschiebung der Klimazonen</text:p>
+              </text:list-item>
+              <text:list-item>
+                <text:p>Dafür: vertrocknete Ernte in Spanien</text:p>
+              </text:list-item>
+              <text:list-item>
+                <text:p>Warme Klimazone breitet sich aus</text:p>
+              </text:list-item>
+              <text:list-item>
+                <text:p>2080 könnte Europa in einer subtropischen Klimazone liegen</text:p>
+              </text:list-item>
+            </text:list>
+          </draw:text-box>
+        </draw:frame>
+        <presentation:notes draw:style-name="dp2">
+          <draw:page-thumbnail draw:style-name="gr1" draw:layer="layout" svg:width="14.848cm" svg:height="11.136cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="2" presentation:class="page"/>
+          <draw:frame presentation:style-name="pr5" draw:text-style-name="P1" draw:layer="layout" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true">
+            <draw:text-box/>
+          </draw:frame>
+        </presentation:notes>
+      </draw:page>
+      <draw:page draw:name="page3" draw:style-name="dp3" draw:master-page-name="Impress1" presentation:presentation-page-layout-name="AL2T1">
+        <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+        <draw:frame presentation:style-name="pr6" draw:layer="layout" svg:width="24.599cm" svg:height="2.63cm" svg:x="2cm" svg:y="0.627cm" presentation:class="title" presentation:user-transformed="true">
+          <draw:text-box>
+            <text:p>Gletscherschmelzen</text:p>
+          </draw:text-box>
+        </draw:frame>
+        <draw:frame presentation:style-name="pr4" draw:layer="layout" svg:width="24cm" svg:height="9.135cm" svg:x="2cm" svg:y="4.5cm" presentation:class="outline">
+          <draw:text-box>
+            <text:list text:style-name="L3">
+              <text:list-item>
+                <text:p>Generelle Abnahme der Gletscher (unterschiedlich schnell, je nach Ort)</text:p>
+              </text:list-item>
+              <text:list-item>
+                <text:p>Der Massenverlust pro Jahr ist in den letzten Jahren stark angestiegen</text:p>
+              </text:list-item>
+              <text:list-item>
+                <text:p>Schnellere Abnahme am Aqäuator als an den Polen</text:p>
+              </text:list-item>
+              <text:list-item>
+                <text:p>Größte Abnahme in Südamerika</text:p>
+              </text:list-item>
+            </text:list>
+          </draw:text-box>
+        </draw:frame>
+        <presentation:notes draw:style-name="dp2">
+          <draw:page-thumbnail draw:style-name="gr1" draw:layer="layout" svg:width="14.848cm" svg:height="11.136cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="3" presentation:class="page"/>
+          <draw:frame presentation:style-name="pr5" draw:text-style-name="P1" draw:layer="layout" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true">
+            <draw:text-box/>
+          </draw:frame>
+        </presentation:notes>
+      </draw:page>
+      <draw:page draw:name="page4" draw:style-name="dp3" draw:master-page-name="Impress1" presentation:presentation-page-layout-name="AL2T1">
+        <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+        <draw:frame presentation:style-name="pr6" draw:layer="layout" svg:width="24.599cm" svg:height="2.63cm" svg:x="2cm" svg:y="0.627cm" presentation:class="title" presentation:user-transformed="true">
+          <draw:text-box>
+            <text:p>Meeresspiegel</text:p>
+          </draw:text-box>
+        </draw:frame>
+        <draw:frame presentation:style-name="pr4" draw:layer="layout" svg:width="24cm" svg:height="9.135cm" svg:x="2cm" svg:y="4.5cm" presentation:class="outline">
+          <draw:text-box>
+            <text:list text:style-name="L3">
+              <text:list-item>
+                <text:p>Schäden für die Menschen (ökolonomisch, sozial)</text:p>
+              </text:list-item>
+              <text:list-item>
+                <text:p>Schäden für Tiere und Umwelt (ökologisch)</text:p>
+              </text:list-item>
+              <text:list-item>
+                <text:p><text:s/>→ Artenvielfalt geht verloren</text:p>
+              </text:list-item>
+              <text:list-item>
+                <text:p/>
+              </text:list-item>
+            </text:list>
+          </draw:text-box>
+        </draw:frame>
+        <presentation:notes draw:style-name="dp2">
+          <draw:page-thumbnail draw:style-name="gr1" draw:layer="layout" svg:width="14.848cm" svg:height="11.136cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="4" presentation:class="page"/>
+          <draw:frame presentation:style-name="pr5" draw:text-style-name="P1" draw:layer="layout" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true">
+            <draw:text-box/>
+          </draw:frame>
+        </presentation:notes>
+      </draw:page>
+      <presentation:settings presentation:mouse-visible="false"/>
+    </office:presentation>
+  </office:body>
+</office:document-content>
