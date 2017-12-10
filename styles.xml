@@ -719,6 +719,9 @@
             <text:span text:style-name="MT1">
               <presentation:header/>
             </text:span>
+            <text:span text:style-name="MT1">
+              <text:s text:c="3"/>
+            </text:span>
           </text:p>
         </draw:text-box>
       </draw:frame>
@@ -727,6 +730,9 @@
           <text:p text:style-name="MP3">
             <text:span text:style-name="MT1">
               <presentation:date-time/>
+            </text:span>
+            <text:span text:style-name="MT1">
+              <text:s text:c="3"/>
             </text:span>
           </text:p>
         </draw:text-box>
@@ -737,6 +743,9 @@
             <text:span text:style-name="MT1">
               <presentation:footer/>
             </text:span>
+            <text:span text:style-name="MT1">
+              <text:s text:c="3"/>
+            </text:span>
           </text:p>
         </draw:text-box>
       </draw:frame>
@@ -745,6 +754,9 @@
           <text:p text:style-name="MP3">
             <text:span text:style-name="MT1">
               <text:page-number>&lt;number&gt;</text:page-number>
+            </text:span>
+            <text:span text:style-name="MT1">
+              <text:s text:c="3"/>
             </text:span>
           </text:p>
         </draw:text-box>
@@ -769,6 +781,9 @@
             <text:span text:style-name="MT2">
               <presentation:date-time/>
             </text:span>
+            <text:span text:style-name="MT2">
+              <text:s text:c="3"/>
+            </text:span>
           </text:p>
         </draw:text-box>
       </draw:frame>
@@ -777,6 +792,9 @@
           <text:p text:style-name="MP5">
             <text:span text:style-name="MT2">
               <presentation:footer/>
+            </text:span>
+            <text:span text:style-name="MT2">
+              <text:s text:c="3"/>
             </text:span>
           </text:p>
         </draw:text-box>
@@ -787,9 +805,12 @@
             <text:span text:style-name="MT2">
               <text:page-number>&lt;number&gt;</text:page-number>
             </text:span>
-            <text:span text:style-name="MT2"><text:s/>/ </text:span>
+            <text:span text:style-name="MT2"><text:s text:c="3"/>/ </text:span>
             <text:span text:style-name="MT2">
               <text:page-count>4</text:page-count>
+            </text:span>
+            <text:span text:style-name="MT2">
+              <text:s text:c="3"/>
             </text:span>
           </text:p>
         </draw:text-box>
@@ -809,6 +830,9 @@
               <text:span text:style-name="MT1">
                 <presentation:header/>
               </text:span>
+              <text:span text:style-name="MT1">
+                <text:s text:c="3"/>
+              </text:span>
             </text:p>
           </draw:text-box>
         </draw:frame>
@@ -817,6 +841,9 @@
             <text:p text:style-name="MP3">
               <text:span text:style-name="MT1">
                 <presentation:date-time/>
+              </text:span>
+              <text:span text:style-name="MT1">
+                <text:s text:c="3"/>
               </text:span>
             </text:p>
           </draw:text-box>
@@ -827,6 +854,9 @@
               <text:span text:style-name="MT1">
                 <presentation:footer/>
               </text:span>
+              <text:span text:style-name="MT1">
+                <text:s text:c="3"/>
+              </text:span>
             </text:p>
           </draw:text-box>
         </draw:frame>
@@ -835,6 +865,9 @@
             <text:p text:style-name="MP3">
               <text:span text:style-name="MT1">
                 <text:page-number>&lt;number&gt;</text:page-number>
+              </text:span>
+              <text:span text:style-name="MT1">
+                <text:s text:c="3"/>
               </text:span>
             </text:p>
           </draw:text-box>
@@ -854,6 +887,9 @@
             <text:span text:style-name="MT2">
               <presentation:date-time/>
             </text:span>
+            <text:span text:style-name="MT2">
+              <text:s text:c="3"/>
+            </text:span>
           </text:p>
         </draw:text-box>
       </draw:frame>
@@ -862,6 +898,9 @@
           <text:p text:style-name="MP5">
             <text:span text:style-name="MT2">
               <presentation:footer/>
+            </text:span>
+            <text:span text:style-name="MT2">
+              <text:s text:c="3"/>
             </text:span>
           </text:p>
         </draw:text-box>
@@ -872,9 +911,12 @@
             <text:span text:style-name="MT2">
               <text:page-number>&lt;number&gt;</text:page-number>
             </text:span>
-            <text:span text:style-name="MT2"><text:s/>/ </text:span>
+            <text:span text:style-name="MT2"><text:s text:c="3"/>/ </text:span>
             <text:span text:style-name="MT2">
               <text:page-count>4</text:page-count>
+            </text:span>
+            <text:span text:style-name="MT2">
+              <text:s text:c="3"/>
             </text:span>
           </text:p>
         </draw:text-box>
@@ -894,6 +936,9 @@
               <text:span text:style-name="MT1">
                 <presentation:header/>
               </text:span>
+              <text:span text:style-name="MT1">
+                <text:s text:c="3"/>
+              </text:span>
             </text:p>
           </draw:text-box>
         </draw:frame>
@@ -902,6 +947,9 @@
             <text:p text:style-name="MP3">
               <text:span text:style-name="MT1">
                 <presentation:date-time/>
+              </text:span>
+              <text:span text:style-name="MT1">
+                <text:s text:c="3"/>
               </text:span>
             </text:p>
           </draw:text-box>
@@ -912,6 +960,9 @@
               <text:span text:style-name="MT1">
                 <presentation:footer/>
               </text:span>
+              <text:span text:style-name="MT1">
+                <text:s text:c="3"/>
+              </text:span>
             </text:p>
           </draw:text-box>
         </draw:frame>
@@ -920,6 +971,9 @@
             <text:p text:style-name="MP3">
               <text:span text:style-name="MT1">
                 <text:page-number>&lt;number&gt;</text:page-number>
+              </text:span>
+              <text:span text:style-name="MT1">
+                <text:s text:c="3"/>
               </text:span>
             </text:p>
           </draw:text-box>

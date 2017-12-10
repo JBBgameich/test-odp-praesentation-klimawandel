@@ -262,7 +262,7 @@
         <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
         <draw:frame presentation:style-name="pr6" draw:layer="layout" svg:width="24.599cm" svg:height="2.63cm" svg:x="2cm" svg:y="0.627cm" presentation:class="title" presentation:user-transformed="true">
           <draw:text-box>
-            <text:p>Meeresspiegel</text:p>
+            <text:p>Anstieg des Meeresspiegel</text:p>
           </draw:text-box>
         </draw:frame>
         <draw:frame presentation:style-name="pr4" draw:layer="layout" svg:width="24cm" svg:height="9.135cm" svg:x="2cm" svg:y="4.5cm" presentation:class="outline">
@@ -272,13 +272,19 @@
                 <text:p>Schäden für die Menschen (ökolonomisch, sozial)</text:p>
               </text:list-item>
               <text:list-item>
+                <text:p>→ Verlust von Anbaufläche, Erne, Gebäuden</text:p>
+              </text:list-item>
+              <text:list-item>
+                <text:p>→ Flucht der Menschen aus betroffenen Gebieten</text:p>
+              </text:list-item>
+              <text:list-item>
                 <text:p>Schäden für Tiere und Umwelt (ökologisch)</text:p>
               </text:list-item>
               <text:list-item>
                 <text:p><text:s/>→ Artenvielfalt geht verloren</text:p>
               </text:list-item>
               <text:list-item>
-                <text:p/>
+                <text:p>Durch Gletscherschmelzen ausgelöst </text:p>
               </text:list-item>
             </text:list>
           </draw:text-box>
