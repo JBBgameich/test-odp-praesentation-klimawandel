@@ -30,6 +30,42 @@
     <style:style style:name="gr1" style:family="graphic">
       <style:graphic-properties style:protect="size"/>
     </style:style>
+    <style:style style:name="gr2" style:family="graphic" style:parent-style-name="standard">
+      <style:graphic-properties draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="0.95cm" fo:min-width="5.3cm"/>
+    </style:style>
+    <style:style style:name="gr3" style:family="graphic" style:parent-style-name="standard">
+      <style:graphic-properties draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="0.55cm" fo:min-width="7.9cm"/>
+    </style:style>
+    <style:style style:name="gr4" style:family="graphic" style:parent-style-name="standard">
+      <style:graphic-properties draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="1.95cm" fo:min-width="8.7cm"/>
+    </style:style>
+    <style:style style:name="gr5" style:family="graphic" style:parent-style-name="standard">
+      <style:graphic-properties draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="0.75cm" fo:min-width="6.9cm"/>
+    </style:style>
+    <style:style style:name="gr6" style:family="graphic" style:parent-style-name="standard">
+      <style:graphic-properties draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="1.35cm" fo:min-width="8.3cm"/>
+    </style:style>
+    <style:style style:name="gr7" style:family="graphic" style:parent-style-name="standard">
+      <style:graphic-properties draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="1.55cm" fo:min-width="6.3cm"/>
+    </style:style>
+    <style:style style:name="gr8" style:family="graphic" style:parent-style-name="standard">
+      <style:graphic-properties draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="1.75cm" fo:min-width="8.7cm"/>
+    </style:style>
+    <style:style style:name="gr9" style:family="graphic" style:parent-style-name="standard">
+      <style:graphic-properties draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="1.35cm" fo:min-width="6.1cm"/>
+    </style:style>
+    <style:style style:name="gr10" style:family="graphic" style:parent-style-name="standard">
+      <style:graphic-properties draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="1.15cm" fo:min-width="6.9cm"/>
+    </style:style>
+    <style:style style:name="gr11" style:family="graphic" style:parent-style-name="standard">
+      <style:graphic-properties draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="1.75cm" fo:min-width="5.5cm"/>
+    </style:style>
+    <style:style style:name="gr12" style:family="graphic" style:parent-style-name="objectwithoutfill">
+      <style:graphic-properties draw:marker-end="Arrow" draw:marker-end-width="0.3cm" draw:fill="none" draw:textarea-vertical-align="middle"/>
+    </style:style>
+    <style:style style:name="gr13" style:family="graphic" style:parent-style-name="standard">
+      <style:graphic-properties draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="1.15cm" fo:min-width="5.3cm"/>
+    </style:style>
     <style:style style:name="pr1" style:family="presentation" style:parent-style-name="Impress-title">
       <style:graphic-properties fo:min-height="3cm" draw:shadow="visible" draw:shadow-offset-x="0.071cm" draw:shadow-offset-y="0.071cm" draw:shadow-color="#000000" draw:shadow-opacity="30%"/>
     </style:style>
@@ -48,8 +84,29 @@
     <style:style style:name="pr6" style:family="presentation" style:parent-style-name="Impress1-title">
       <style:graphic-properties fo:min-height="2.63cm"/>
     </style:style>
+    <style:style style:name="pr7" style:family="presentation" style:parent-style-name="Impress1-notes">
+      <style:graphic-properties draw:fill-color="#ffffff" fo:min-height="13.364cm"/>
+    </style:style>
     <style:style style:name="P1" style:family="paragraph">
       <loext:graphic-properties draw:fill-color="#ffffff"/>
+    </style:style>
+    <style:style style:name="P2" style:family="paragraph">
+      <style:paragraph-properties fo:text-align="center"/>
+    </style:style>
+    <style:style style:name="P3" style:family="paragraph">
+      <style:paragraph-properties fo:text-align="center"/>
+      <style:text-properties fo:font-size="18pt"/>
+    </style:style>
+    <style:style style:name="P4" style:family="paragraph">
+      <loext:graphic-properties draw:fill="none"/>
+      <style:paragraph-properties fo:text-align="center"/>
+    </style:style>
+    <style:style style:name="P5" style:family="paragraph">
+      <loext:graphic-properties draw:fill-color="#ffffff"/>
+      <style:text-properties fo:font-size="20pt"/>
+    </style:style>
+    <style:style style:name="T1" style:family="text">
+      <style:text-properties fo:font-size="18pt"/>
     </style:style>
     <text:list-style style:name="L1">
       <text:list-level-style-bullet text:level="1" text:bullet-char="●">
@@ -292,6 +349,155 @@
         <presentation:notes draw:style-name="dp2">
           <draw:page-thumbnail draw:style-name="gr1" draw:layer="layout" svg:width="14.848cm" svg:height="11.136cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="4" presentation:class="page"/>
           <draw:frame presentation:style-name="pr5" draw:text-style-name="P1" draw:layer="layout" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true">
+            <draw:text-box/>
+          </draw:frame>
+        </presentation:notes>
+      </draw:page>
+      <draw:page draw:name="page5" draw:style-name="dp3" draw:master-page-name="Impress1" presentation:presentation-page-layout-name="AL2T1">
+        <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+        <draw:custom-shape draw:style-name="gr2" draw:text-style-name="P3" xml:id="id6" draw:id="id6" draw:layer="layout" svg:width="5.8cm" svg:height="1.2cm" svg:x="7.2cm" svg:y="5.2cm">
+          <text:p text:style-name="P2">
+            <text:span text:style-name="T1">Gletscherschmelze</text:span>
+          </text:p>
+          <text:p text:style-name="P2">
+            <text:span text:style-name="T1">
+              <text:s/>
+            </text:span>
+            <text:span text:style-name="T1">Weltweit</text:span>
+          </text:p>
+          <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+        </draw:custom-shape>
+        <draw:custom-shape draw:style-name="gr3" draw:text-style-name="P3" xml:id="id5" draw:id="id5" draw:layer="layout" svg:width="8.4cm" svg:height="0.8cm" svg:x="1.2cm" svg:y="3.8cm">
+          <text:p text:style-name="P2">
+            <text:span text:style-name="T1">weltweiter Temperaturanstieg</text:span>
+          </text:p>
+          <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+        </draw:custom-shape>
+        <draw:custom-shape draw:style-name="gr4" draw:text-style-name="P3" xml:id="id8" draw:id="id8" draw:layer="layout" svg:width="9.2cm" svg:height="2.2cm" svg:x="0.6cm" svg:y="10.2cm">
+          <text:p text:style-name="P2">
+            <text:span text:style-name="T1">anthropologische Klimaeinflüsse</text:span>
+          </text:p>
+          <text:p text:style-name="P2">
+            <text:span text:style-name="T1">z.B. durch Nutzung fossiler</text:span>
+          </text:p>
+          <text:p text:style-name="P2">
+            <text:span text:style-name="T1">
+              <text:s/>
+            </text:span>
+            <text:span text:style-name="T1">Brenstoffe</text:span>
+          </text:p>
+          <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+        </draw:custom-shape>
+        <draw:custom-shape draw:style-name="gr5" draw:text-style-name="P3" xml:id="id1" draw:id="id1" draw:layer="layout" svg:width="7.4cm" svg:height="1cm" svg:x="16cm" svg:y="5.2cm">
+          <text:p text:style-name="P2">
+            <text:span text:style-name="T1">Anstieg d. Meeresspiegels</text:span>
+          </text:p>
+          <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+        </draw:custom-shape>
+        <draw:custom-shape draw:style-name="gr6" draw:text-style-name="P3" xml:id="id3" draw:id="id3" draw:layer="layout" svg:width="8.8cm" svg:height="1.6cm" svg:x="16cm" svg:y="3.4cm">
+          <text:p text:style-name="P2">
+            <text:span text:style-name="T1">Anstieg der Wassertemperatur</text:span>
+          </text:p>
+          <text:p text:style-name="P2">
+            <text:span text:style-name="T1">
+              <text:s/>
+            </text:span>
+            <text:span text:style-name="T1">in den Ozeanen</text:span>
+          </text:p>
+          <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+        </draw:custom-shape>
+        <draw:custom-shape draw:style-name="gr7" draw:text-style-name="P3" xml:id="id7" draw:id="id7" draw:layer="layout" svg:width="6.8cm" svg:height="1.8cm" svg:x="2.8cm" svg:y="7.4cm">
+          <text:p text:style-name="P2">
+            <text:span text:style-name="T1">Anstieg d. CO² Gehaltes</text:span>
+          </text:p>
+          <text:p text:style-name="P2">
+            <text:span text:style-name="T1">
+              <text:s/>
+            </text:span>
+            <text:span text:style-name="T1">in der Luft</text:span>
+          </text:p>
+          <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+        </draw:custom-shape>
+        <draw:custom-shape draw:style-name="gr8" draw:text-style-name="P3" xml:id="id4" draw:id="id4" draw:layer="layout" svg:width="9.2cm" svg:height="2cm" svg:x="16cm" svg:y="6.4cm">
+          <text:p text:style-name="P2">
+            <text:span text:style-name="T1">Abnahme des Salzgehaltes der </text:span>
+          </text:p>
+          <text:p text:style-name="P2">
+            <text:span text:style-name="T1">Ozeane <text:s/>(durch Zufluss von </text:span>
+          </text:p>
+          <text:p text:style-name="P2">
+            <text:span text:style-name="T1">Süßwasser / Schmelzwasser)</text:span>
+          </text:p>
+          <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+        </draw:custom-shape>
+        <draw:custom-shape draw:style-name="gr9" draw:text-style-name="P3" xml:id="id9" draw:id="id9" draw:layer="layout" svg:width="6.6cm" svg:height="1.6cm" svg:x="13.8cm" svg:y="13cm">
+          <text:p text:style-name="P2">
+            <text:span text:style-name="T1">Versauerung d. Ozeane</text:span>
+          </text:p>
+          <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+        </draw:custom-shape>
+        <draw:custom-shape draw:style-name="gr10" draw:text-style-name="P3" xml:id="id10" draw:id="id10" draw:layer="layout" svg:width="7.4cm" svg:height="1.4cm" svg:x="5.4cm" svg:y="13.2cm">
+          <text:p text:style-name="P2">
+            <text:span text:style-name="T1">Anstieg d. Methangelaltes</text:span>
+          </text:p>
+          <text:p text:style-name="P2">
+            <text:span text:style-name="T1">
+              <text:s/>
+            </text:span>
+            <text:span text:style-name="T1">in der Athmosphäre</text:span>
+          </text:p>
+          <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+        </draw:custom-shape>
+        <draw:custom-shape draw:style-name="gr11" draw:text-style-name="P2" xml:id="id2" draw:id="id2" draw:layer="layout" svg:width="6cm" svg:height="2cm" svg:x="21cm" svg:y="11.2cm">
+          <text:p text:style-name="P2">Tier – und </text:p>
+          <text:p text:style-name="P2">Pflanzenarten </text:p>
+          <text:p text:style-name="P2">sterben aus</text:p>
+          <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+        </draw:custom-shape>
+        <draw:connector draw:style-name="gr12" draw:text-style-name="P4" draw:layer="layout" draw:type="curve" svg:x1="23.4cm" svg:y1="5.7cm" svg:x2="27cm" svg:y2="12.2cm" draw:start-shape="id1" draw:start-glue-point="1" draw:end-shape="id2" draw:end-glue-point="1" svg:d="M23400 5700c6151 0 4351 6500 3600 6500" svg:viewBox="0 0 4436 6501">
+          <text:p/>
+        </draw:connector>
+        <draw:connector draw:style-name="gr12" draw:text-style-name="P4" draw:layer="layout" draw:type="curve" svg:x1="24.8cm" svg:y1="4.2cm" svg:x2="27cm" svg:y2="12.2cm" draw:start-shape="id3" draw:start-glue-point="1" draw:end-shape="id2" draw:end-glue-point="1" svg:d="M24800 4200c4051 0 2951 8000 2200 8000" svg:viewBox="0 0 2927 8001">
+          <text:p/>
+        </draw:connector>
+        <draw:custom-shape draw:style-name="gr13" draw:text-style-name="P2" xml:id="id11" draw:id="id11" draw:layer="layout" svg:width="5.8cm" svg:height="1.4cm" svg:x="14.8cm" svg:y="9.6cm">
+          <text:p text:style-name="P2">Verlust von </text:p>
+          <text:p text:style-name="P2">Anbaufläche</text:p>
+          <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+        </draw:custom-shape>
+        <draw:connector draw:style-name="gr12" draw:text-style-name="P4" draw:layer="layout" draw:type="curve" svg:x1="20.6cm" svg:y1="8.4cm" svg:x2="24cm" svg:y2="11.2cm" draw:start-shape="id4" draw:start-glue-point="2" draw:end-shape="id2" draw:end-glue-point="0" svg:d="M20600 8400c0 2100 3400 700 3400 2800" svg:viewBox="0 0 3401 2801">
+          <text:p/>
+        </draw:connector>
+        <draw:connector draw:style-name="gr12" draw:text-style-name="P4" draw:layer="layout" draw:type="lines" svg:x1="9.6cm" svg:y1="4.2cm" svg:x2="16cm" svg:y2="4.2cm" draw:start-shape="id5" draw:start-glue-point="1" draw:end-shape="id3" svg:d="M9600 4200h501 5398 501" svg:viewBox="0 0 6401 1">
+          <text:p/>
+        </draw:connector>
+        <draw:connector draw:style-name="gr12" draw:text-style-name="P4" draw:layer="layout" draw:type="lines" svg:x1="13cm" svg:y1="5.8cm" svg:x2="16cm" svg:y2="5.7cm" draw:start-shape="id6" draw:start-glue-point="1" draw:end-shape="id1" draw:end-glue-point="3" svg:d="M13000 5800h501l1984-100h515" svg:viewBox="0 0 3001 101">
+          <text:p/>
+        </draw:connector>
+        <draw:connector draw:style-name="gr12" draw:text-style-name="P4" draw:layer="layout" draw:type="lines" svg:x1="10.1cm" svg:y1="6.4cm" svg:x2="16cm" svg:y2="7.4cm" draw:start-shape="id6" draw:start-glue-point="2" draw:end-shape="id4" draw:end-glue-point="3" svg:d="M10100 6400v501l5399 499h501" svg:viewBox="0 0 5901 1001">
+          <text:p/>
+        </draw:connector>
+        <draw:connector draw:style-name="gr12" draw:text-style-name="P4" draw:layer="layout" draw:type="lines" svg:x1="6.2cm" svg:y1="7.4cm" svg:x2="5.4cm" svg:y2="4.6cm" draw:start-shape="id7" draw:start-glue-point="0" draw:end-shape="id5" svg:d="M6200 7400v-501l-800-1798v-501" svg:viewBox="0 0 801 2801">
+          <text:p/>
+        </draw:connector>
+        <draw:connector draw:style-name="gr12" draw:text-style-name="P4" draw:layer="layout" draw:type="lines" svg:x1="5.4cm" svg:y1="4.6cm" svg:x2="7.2cm" svg:y2="5.8cm" draw:start-shape="id5" draw:start-glue-point="2" draw:end-shape="id6" draw:end-glue-point="3" svg:d="M5400 4600v501l1299 699h501" svg:viewBox="0 0 1801 1201">
+          <text:p/>
+        </draw:connector>
+        <draw:connector draw:style-name="gr12" draw:text-style-name="P4" draw:layer="layout" draw:type="lines" svg:x1="9.8cm" svg:y1="11.3cm" svg:x2="17.1cm" svg:y2="13cm" draw:start-shape="id8" draw:start-glue-point="1" draw:end-shape="id9" draw:end-glue-point="0" svg:d="M9800 11300h501l6799 1199v501" svg:viewBox="0 0 7301 1701">
+          <text:p/>
+        </draw:connector>
+        <draw:connector draw:style-name="gr12" draw:text-style-name="P4" draw:layer="layout" draw:type="line" svg:x1="5.2cm" svg:y1="12.4cm" svg:x2="9.1cm" svg:y2="13.2cm" draw:start-shape="id8" draw:start-glue-point="2" draw:end-shape="id10" draw:end-glue-point="0" svg:d="M5200 12400l3900 800" svg:viewBox="0 0 3901 801">
+          <text:p/>
+        </draw:connector>
+        <draw:connector draw:style-name="gr12" draw:text-style-name="P4" draw:layer="layout" draw:type="line" svg:x1="5.2cm" svg:y1="10.2cm" svg:x2="6.2cm" svg:y2="9.2cm" draw:start-shape="id8" draw:start-glue-point="0" draw:end-shape="id7" draw:end-glue-point="2" svg:d="M5200 10200l1000-1000" svg:viewBox="0 0 1001 1001">
+          <text:p/>
+        </draw:connector>
+        <draw:connector draw:style-name="gr12" draw:text-style-name="P4" draw:layer="layout" draw:type="curve" draw:line-skew="1.938cm" svg:x1="23.4cm" svg:y1="5.7cm" svg:x2="20.6cm" svg:y2="10.3cm" draw:start-shape="id1" draw:start-glue-point="1" draw:end-shape="id11" svg:d="M23400 5700c3669 0 5069 4600-2800 4600" svg:viewBox="0 0 5744 4601">
+          <text:p/>
+        </draw:connector>
+        <presentation:notes draw:style-name="dp2">
+          <draw:page-thumbnail draw:style-name="gr1" draw:layer="layout" svg:width="14.848cm" svg:height="11.136cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="5" presentation:class="page"/>
+          <draw:frame presentation:style-name="pr7" draw:text-style-name="P5" draw:layer="layout" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true">
             <draw:text-box/>
           </draw:frame>
         </presentation:notes>

@@ -2,10 +2,10 @@
 <office:document-settings xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:smil="urn:oasis:names:tc:opendocument:xmlns:smil-compatible:1.0" xmlns:anim="urn:oasis:names:tc:opendocument:xmlns:animation:1.0" xmlns:officeooo="http://openoffice.org/2009/office" office:version="1.2">
   <office:settings>
     <config:config-item-set config:name="ooo:view-settings">
-      <config:config-item config:name="VisibleAreaTop" config:type="int">-378</config:config-item>
-      <config:config-item config:name="VisibleAreaLeft" config:type="int">-2035</config:config-item>
-      <config:config-item config:name="VisibleAreaWidth" config:type="int">31837</config:config-item>
-      <config:config-item config:name="VisibleAreaHeight" config:type="int">16282</config:config-item>
+      <config:config-item config:name="VisibleAreaTop" config:type="int">-1167</config:config-item>
+      <config:config-item config:name="VisibleAreaLeft" config:type="int">-9688</config:config-item>
+      <config:config-item config:name="VisibleAreaWidth" config:type="int">40660</config:config-item>
+      <config:config-item config:name="VisibleAreaHeight" config:type="int">20466</config:config-item>
       <config:config-item-map-indexed config:name="Views">
         <config:config-item-map-entry>
           <config:config-item config:name="ViewId" config:type="string">view1</config:config-item>
@@ -27,16 +27,16 @@
           <config:config-item config:name="NoColors" config:type="boolean">true</config:config-item>
           <config:config-item config:name="RulerIsVisible" config:type="boolean">false</config:config-item>
           <config:config-item config:name="PageKind" config:type="short">0</config:config-item>
-          <config:config-item config:name="SelectedPage" config:type="short">3</config:config-item>
+          <config:config-item config:name="SelectedPage" config:type="short">0</config:config-item>
           <config:config-item config:name="IsLayerMode" config:type="boolean">false</config:config-item>
           <config:config-item config:name="IsDoubleClickTextEdit" config:type="boolean">true</config:config-item>
           <config:config-item config:name="IsClickChangeRotation" config:type="boolean">true</config:config-item>
           <config:config-item config:name="SlidesPerRow" config:type="short">4</config:config-item>
           <config:config-item config:name="EditMode" config:type="int">0</config:config-item>
-          <config:config-item config:name="VisibleAreaTop" config:type="int">-378</config:config-item>
-          <config:config-item config:name="VisibleAreaLeft" config:type="int">-2035</config:config-item>
-          <config:config-item config:name="VisibleAreaWidth" config:type="int">31838</config:config-item>
-          <config:config-item config:name="VisibleAreaHeight" config:type="int">16283</config:config-item>
+          <config:config-item config:name="VisibleAreaTop" config:type="int">-1167</config:config-item>
+          <config:config-item config:name="VisibleAreaLeft" config:type="int">-9688</config:config-item>
+          <config:config-item config:name="VisibleAreaWidth" config:type="int">40661</config:config-item>
+          <config:config-item config:name="VisibleAreaHeight" config:type="int">20467</config:config-item>
           <config:config-item config:name="GridCoarseWidth" config:type="int">2000</config:config-item>
           <config:config-item config:name="GridCoarseHeight" config:type="int">2000</config:config-item>
           <config:config-item config:name="GridFineWidth" config:type="int">200</config:config-item>
